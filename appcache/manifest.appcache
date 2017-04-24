@@ -1,0 +1,13 @@
+CACHE MANIFEST
+#ver:4/24/2017, 2:57:17 PM
+#plugin:4.7.0
+
+CACHE:
+../
+../static/js/vendor.5c3b3a9abdf581fdad74.js
+../static/js/app.ff2ae22ef3b09fcea54c.js
+../static/js/manifest.de5eaa8d679802ba93ce.js
+../static/css/app.95c07e55a2c12b9a7699acd771b61856.css
+
+NETWORK:
+*
